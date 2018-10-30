@@ -1,4 +1,4 @@
 # gpgtest
 testing gpg signing
 
-foo bar baz oof rab
+foo bar baz oof rab zab
